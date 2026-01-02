@@ -3,7 +3,6 @@ from Blockchain.Backend.util.util import (
     hash256,
     int_to_little_endian,
     little_endian_to_int,
-    int_to_little_endian,
 )
 
 
